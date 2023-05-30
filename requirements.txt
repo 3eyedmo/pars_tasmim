@@ -1,0 +1,11 @@
+django==3.2.18
+
+# for making apis
+djangorestframework
+
+# for authentication
+djangorestframework-simplejwt
+
+
+# for documentation
+drf-yasg
